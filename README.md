@@ -10,7 +10,7 @@ I love building things that actually make life easier — clean interfaces, smar
 
 - 🎓 Studying Computer Science Engineering @ **ESPRIT**, Tunisia
 - 💡 Passionate about **full-stack dev**, **mobile apps** & **AI integration**
-- 🌍 Based in Ben Arous, Tunisia
+- 🌍 Based in Tunis, Tunisia
 - 🤝 Active in **IEEE** & university tech communities
 - 🌱 Always learning something new
 
